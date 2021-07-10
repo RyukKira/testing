@@ -1,0 +1,26 @@
+{
+	"name": "testing",
+	"version": "1.0.0",
+	"description": "",
+	"main": "FizzBuzz.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"test": "jest --watchAll"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/RyukKira/testing.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/RyukKira/testing/issues"
+	},
+	"homepage": "https://github.com/RyukKira/testing#readme",
+	"devDependencies": {
+		"jest": "^27.0.6"
+	}
+}
